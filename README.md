@@ -18,5 +18,5 @@
 </p>
 <details>
 <summary>lowkey</summary>
-  I'm debating whether I should put these stats out on my readme (because yes it is obviously not A+)... でもCから始まるってことは伸び代しかないってことなんだよね^^
+  I'm debating whether I should include these stats in my README (because yes it is obviously not A+)... でもCから始まるってことは伸び代しかないってことなんだよね^^
 </details>
