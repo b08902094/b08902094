@@ -3,6 +3,7 @@
 - 🌱 I'm currently learning Web Development technologies.
 - 💻 I'm majoring in computer science and information engineering.
 - 🧑‍🤝‍🧑 My research interest particularly lies in the field of human-computer interaction.
+- 🙆 I'm working as a tutor at a coding school.
 - 📖 I'm currently reading _Automate the Boring Stuff with Python_ by Al Sweigart.
 
 ## 2024 Goals
